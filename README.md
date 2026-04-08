@@ -281,8 +281,6 @@ This project demonstrates a complete **real-time AI system** combining:
 - Deep Learning
 - Human-Computer Interaction
 
-It serves as a strong portfolio project for roles in **AI/ML Engineering**, **Computer Vision**, and **Assistive Technology**.
-
 ---
 
 > ⭐ If you found this project useful, consider giving it a star on GitHub!
