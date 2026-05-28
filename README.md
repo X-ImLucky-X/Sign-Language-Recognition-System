@@ -193,7 +193,7 @@ SIGN-LANGUAGE-PROJECT/
 ### Step 1 — Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name
+git clone https://github.com/X-ImLucky-X/your-repo-name
 cd your-repo-name
 ```
 
